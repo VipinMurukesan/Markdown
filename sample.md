@@ -18,7 +18,7 @@ _So is this_
 
 __So is this__
 
-*__This must be bold italic__* 
+**_This must be bold italic_** 
 
 
 
@@ -85,4 +85,11 @@ ___
 * [x] Read Markdown
 * [x] Try Markdown
 * [ ] Practice Markdown
+
+**References**
+
+* [Traversy Media Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+* [Introduction to Markdown in Jupyter](https://www.youtube.com/watch?v=jBCB23pQeIA)
+
 
