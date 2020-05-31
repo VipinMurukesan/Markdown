@@ -18,7 +18,7 @@ _So is this_
 
 __So is this__
 
-*_ This must be bold italic _* 
+*__This must be bold italic__* 
 
 
 
