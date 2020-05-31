@@ -38,7 +38,7 @@ ___
 
 <!---Links--->
 
-[Google](http://www.google.com)
+[Google](https://www.google.com)
 
 <!---Lists--->
 
@@ -62,9 +62,9 @@ ___
         return num1+num2
 ```
 
-<!---Underline--->
+<!---Underline works in Colab--->
 <u> This is underlined </u>
-<!---Font Color--->
+<!---Font Color works in Colab--->
 <font color= 'green'> This is green </font>
 
 <!---Images--->
@@ -74,11 +74,11 @@ ___
 
 
 <!---Tables--->
-|Name       |Email           |Phone No|
-|:----------|:--------------:|--------:|
-|John Doe   |john@email.com  |01233456|
-|John Doe   |john@email.com  |01233456|
-|John Doe   |john@email.com  |01233456|
+|Name        |Email           |Phone No  |
+|:----------:|:--------------:|:--------:|
+|John Doe    |john@email.com  |01233456  |
+|John Doe    |john@email.com  |01233456  |
+|John Doe    |john@email.com  |01233456  |
 
 
 <!---Task List-works in GitHub--->
